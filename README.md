@@ -25,7 +25,7 @@ Xilinx ISE / Vivado design
 LabInf @ Politecnico di Torino
 
 ## Why?
-University course project for Computer architectures
+Research project for Computer architectures
 
 ## When?
 Fall 2016
